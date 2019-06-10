@@ -1,0 +1,311 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+.a1{
+	background: url(../images/headerbg.png);
+	width: 1260px;
+	height: 651px;
+	display: inline-block;
+	position: relative;
+}
+.a2{
+	height: 115px;
+}
+.a3{
+	float: left;
+	margin-left: 160px;
+	width: 114px;
+	height: 115px;
+}
+.a4{
+	float: right;
+	margin-right: 160px;
+	width: 30px;
+	height: 115px;
+	line-height: 115px;
+	position: relative;
+	display: inline-block;
+}
+.a5{
+	float: right;
+	width: 303px;
+	height: 71px;
+	margin-right: 160px;
+	margin-top: 45px;
+}
+.a6{
+	height: 71px;
+}
+.a7{
+	height: 31px;
+}
+.a8{
+	width: 730px;
+	height: 31px;
+	float: right;
+	margin-right: 160px;
+	margin-top: 44px;
+}
+.a9{
+	height: 345px;
+}
+.a10{
+	width: 228px;
+	height: 268px;
+	float: left;
+	margin-top: 77px;
+	margin-left: 230px;
+	overflow: hidden;
+	transition: 1s ease;
+}
+div.a10:hover{
+	margin-left: 530px;
+}
+.a11{
+	width: 173px;
+	height: 57px;
+	float: right;
+	margin-right: 160px;
+	margin-top: 59px;
+}
+.a12{
+	display: none;
+	position: absolute;
+	width: 1260px;
+	height: 651px;
+	left: -1070px;
+	top: 0px;
+	background: url(../images/navoverlaybg.png);
+	z-index:999;
+}
+.a13{
+	height: 200px;
+}
+.a14{
+	width: 30px;
+	text-align: center;
+	height: 115px;
+	line-height: 115px;
+	float: right;
+	margin-right:160px;
+}
+.a15{
+	height: 51px;
+	line-height: 51px;
+}
+.a16{
+	float: left;
+	width: 51px;
+	height: 51px;
+	margin-left: 540px;
+}
+.a17{
+	height: 51px;
+	margin-left: 20px;
+	float: left;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "ProximaNova";
+    color: #fff;
+}
+.a18{
+	height: 51px;
+	line-height: 51px;
+	margin-top: 15px;
+}
+.a19{
+	cursor: pointer;
+}
+a.aa1:link{
+	color: #fff;
+}
+a.aa1:visited{
+	color: #fff;
+}
+a.aa1:hover{
+	color: #4eacdd;
+}
+.a20{
+	background: url(../images/background.png);
+	width: 1260px;
+	height: 651px;
+	display: inline-block;
+}
+.a21{
+	float: left;
+	margin-left: 160px;
+	margin-top: 144px;
+	text-align: left;
+}
+.a22{
+	float: right;
+	height: 501px;
+	margin-top: 150px;
+	overflow: hidden;
+}
+.a23{
+	margin-top: 35px;
+}
+.a24{
+	margin-top: 33px;
+}
+.a25{
+	display: inline;
+}
+.a26{
+	display: inline;
+	margin-left: 18px;
+}
+.a27{
+	margin-top: 72px;
+}
+.a28{
+	background: url(../images/bg.png);
+	width: 1260px;
+	height: 651px;
+	display: inline-block;
+	position: relative;
+	overflow: hidden;
+}
+.a29{
+	position: absolute;
+	top: 98px;
+	left: 705px;
+}
+.a30{
+	position: absolute;
+	left: 705px;
+	top: 178px;
+}
+.a31{
+	position: absolute;
+	left: 705px;
+	top: 353px;
+}
+.a32{
+	position: absolute;
+	left: 105px;
+	top: 283px;
+	height: 368px;
+	z-index:1;
+}
+.a33{
+	position: absolute;
+	top: 483px;
+	height: 168px;
+	z-index:2;
+}
+.a34{
+	position: absolute;
+	top: 448px;
+	left: 454px;
+	z-index:2;
+	transition: 3s ease;
+}
+div.a28:hover .a34{
+	left: 644px;
+}
+div.a28:hover .a35{
+	left: 1070px;
+}
+div.a28:hover .a36{
+	left: 910px;
+}
+.a35{
+	position: absolute;
+	top: 498px;
+	left: 640px;
+	z-index:2;
+	transition: 3s ease;
+}
+.a36{
+	position: absolute;
+	top: 544px;
+	left: 590px;
+	z-index:3;
+	transition: 3s ease;
+}
+.a37{
+	background: url(../images/bga.png);
+	width: 1260px;
+	height: 326px;
+	display: inline-block;
+	text-align: center;
+}
+.a38{
+	margin-top: 97px;
+}
+.a39{
+	margin-top: 41px;
+}
+.a40{
+	width: 1260px;
+	height: 650px;
+	display: inline-block;
+	background: url(../images/bgb.png);
+}
+.a41{
+	margin-top: 239px;
+	text-align: center;
+}
+.a42{
+	margin-left: 36px;
+}
+.a43{
+	text-align: center;
+	margin-top: 67px;
+	height: 43px;
+	line-height: 43px;
+}
+.a44{
+	height: 43px;
+	line-height: 43px;
+	display: inline-block;
+}
+.a45{
+	display: inline-block;
+	width: 217px;
+	height: 43px;
+	line-height: 43px;
+	text-align: left;
+	margin-left: 24px;
+	background:url(../images/Shape13.png);
+}
+.a46{
+	display: inline-block;
+	margin-left: 15px;
+}
+.a47{
+	display: inline-block;
+	margin-left: 60px;
+}
+.a48{
+	display: inline-block;
+	margin-left: 15px;
+}
+.a49{
+	width: 1260px;
+	height: 102px;
+	overflow: hidden;
+	line-height: 102px;
+	text-align: center;
+	position: relative;
+	display: inline-block;
+	background: url(../images/bgc.png);
+}
+.a50{
+	position: absolute;
+	right:59px;
+	top: 18px;
+	display: inline-block;
+}
+.a51{
+	display: inline-block;
+}
